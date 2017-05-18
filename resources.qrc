@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/2.png</file>
+        <file>images/adCMD.png</file>
+        <file>images/dataView.png</file>
+        <file>images/modView.png</file>
+        <file>images/paramSet.png</file>
+        <file>images/sysAbout.png</file>
+        <file>images/sysDebug.png</file>
+        <file>images/sysManage.png</file>
+        <file>images/back_gray.png</file>
+        <file>images/back.png</file>
+    </qresource>
+</RCC>
